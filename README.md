@@ -43,7 +43,5 @@ Execute the programs and publish them.
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
-![image](https://github.com/KAVIYASHANMUGAM19/NearMe/assets/155141139/82e8fce3-7326-4714-bdc9-018a4bf8f82d)
-![image](https://github.com/KAVIYASHANMUGAM19/NearMe/assets/155141139/a0608869-b472-4a4c-bb1e-c3423ae35e51)
 
 
